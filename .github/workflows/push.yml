@@ -22,4 +22,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: JLRO1812/dockerapp:latest
+          tags: jlrestrepo/dockerapp:latest
